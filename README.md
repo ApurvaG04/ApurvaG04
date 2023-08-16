@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me!
 
-- MS Computer Science from **CSU Fullerton**
-- Previously Software Engineer @ **Accenture**
-- My go to technologies are Python, JavaScript, React, SQL, and more!
-- Other than tech, I love to travel, hangout with friends, watching movies.
+- 📚 MS Computer Science from **CSU Fullerton**
+- 🌆 Previously Software Engineer @ **Accenture**
+- 💻 My go to technologies are Python, JavaScript, React, SQL, and more!
+- ✌️ Other than tech, I love to travel, hangout with friends, watching movies.
