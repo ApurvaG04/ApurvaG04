@@ -1,4 +1,4 @@
-### Hi there 👋
+### Apurva Gawande
 
 <!--
 **ApurvaG04/ApurvaG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me!
+
+- MS Computer Science from **CSU Fullerton**
+- Previously Software Engineer @ **Accenture**
+- My go to technologies are Python, JavaScript, React, SQL, HTML, CSS
+- Other than tech, I love to travel, hangout with friends, watching movies.
