@@ -1,4 +1,4 @@
-### Apurva Gawande
+# Apurva Gawande
 
 ```
 Software Engineer
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me!
+### About me!
 
 - MS Computer Science from **CSU Fullerton**
 - Previously Software Engineer @ **Accenture**
