@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ✌️ Other than tech, I love to travel, hangout with friends, watching movies.
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ApurvaG04)](https://github.com/ryo-ma/github-profile-trophy)
