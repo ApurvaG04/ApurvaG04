@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 - ✌️ Other than tech, I love to travel, hangout with friends, watching movies.
 
 ### Tech Stack
-Front-End - HTML, CSS, Bootstrap, JavaScript, React.js, JQuery, Swift
-Back-End - Python, Flask, JavaScript, Node.js, C++, Java
-Database - MySQL, SQLite, PostgresQL
-Tools - Git, Confluence, Jira, Postman, Figma, Canva, Visual Studio Code, Service Now, Agile Methodology, Change Request and Management
+- **Front-End** - HTML, CSS, Bootstrap, JavaScript, React.js, JQuery, Swift
+- **Back-End** - Python, Flask, JavaScript, Node.js, C++, Java
+- **Database** - MySQL, SQLite, PostgresQL
+- **Tools** - Git, Confluence, Jira, Postman, Figma, Canva, Visual Studio Code, Service Now, Agile Methodology, Change Request and Management
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ApurvaG04)](https://github.com/ryo-ma/github-profile-trophy)
