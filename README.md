@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 - **Front-End** - HTML, CSS, Bootstrap, JavaScript, React.js, JQuery, Swift
-- **Back-End** - Python, Flask, JavaScript, Node.js, C++, Java
+- **Back-End** - Python, Flask, Django, JavaScript, Node.js, C++, Java
 - **Database** - MySQL, SQLite, PostgresQL
-- **Tools** - Git, Confluence, Jira, Postman, Figma, Canva, Visual Studio Code, Service Now, Agile Methodology, Change Request and Management
+- **Tools** - Git, Confluence, Jira, Postman, AWS, Figma, Canva, Visual Studio Code, Service Now, Agile Methodology, Change Request and Management
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ApurvaG04)](https://github.com/ryo-ma/github-profile-trophy)
