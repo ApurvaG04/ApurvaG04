@@ -15,8 +15,8 @@
 🔹 Strong believer in continuous learning, collaboration, and creating impact-driven software solutions.
 
 🌍 Currently working on:
-- Optimizing FastAPI microservices with Kafka streaming pipelines  
-- AI-driven travel itinerary planning app using NLP & recommendation systems  
+- Rapids prototypes with AI-powered building tools.  
+- Ecommerce applications integrating with AI-recommendation systems  
 
 💡 Fun fact: I enjoy turning complex problems into elegant and minimal solutions.
 
