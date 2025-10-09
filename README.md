@@ -26,11 +26,11 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,typescript,csharp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,typescript&perline=7" />
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,bootstrap,materialui&perline=7" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="48" alt="C#" />
   
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,nginx&perline=7" />
@@ -40,7 +40,7 @@
   
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=vscode,git,postman,figma,linux&perline=7" />
-  <img src="https://cdn.simpleicons.org/playwright/45ba4b" height="48" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Playwright-%2345BA4B?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 ---
